@@ -18,10 +18,7 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
-[About](pages/about.md)
-[Download](pages/download.md)
-[zzz](pages/zzz.md)
+[用户协议书](pages/用户协议书.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
